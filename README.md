@@ -13,3 +13,5 @@ Login using these credentials:
 -   Username: test
 -   Email: test@example.com
 -   Password: 123
+
+NOTE!! Dashboard page is under /api route
